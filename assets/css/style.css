@@ -17,7 +17,7 @@
 }
 
 .lightgrey{
-    color: lightgrey;
+    color: lightslategray;
 }
 .bluchiaro{
     color: darkcyan;
@@ -47,3 +47,13 @@ thead{
     width: 25%;
 }
 
+.container {
+    position: relative;
+    color: white;
+  }
+  
+  .bottom-left {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
